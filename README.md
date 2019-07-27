@@ -1,4 +1,4 @@
-# aJax In htMl
+# Ajax In HTML (jim(aJax In htMl))
 Implementation ajax's requests in html tags.
 
 In `<head>` you need to add `<ajax>` tag with attributes `from` and `tag`.
